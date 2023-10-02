@@ -1,4 +1,4 @@
-# ZeroShotLearning
+# Zero Shot Learning
 Zero Shot Learning Implementation using PyTorch
 
 Dataset: Visual Genome
